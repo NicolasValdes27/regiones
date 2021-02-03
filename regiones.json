@@ -1,8 +1,8 @@
 [
     {
-      "region": "Arica y Parinacota",
-      "numero": "XV",
-      "comunas": [
+      "region":"Arica y Parinacota",
+      "numero":"XV",
+      "comunas":[
         "Arica",
         "Camarones",
         "General Lagos",
@@ -10,9 +10,9 @@
       ]
     },
     {
-      "region": "Tarapacá",
-      "numero": "I",
-      "comunas": [
+      "region":"Tarapacá",
+      "numero":"I",
+      "comunas":[
         "Alto Hospicio",
         "Camiña",
         "Colchane",
@@ -23,9 +23,9 @@
       ]
     },
     {
-      "region": "Antofagasta",
-      "numero": "II",
-      "comunas": [
+      "region":"Antofagasta",
+      "numero":"II",
+      "comunas":[
         "Antofagasta",
         "Calama",
         "María Elena",
@@ -38,9 +38,9 @@
       ]
     },
     {
-      "region": "Atacama",
-      "numero": "III",
-      "comunas": [
+      "region":"Atacama",
+      "numero":"III",
+      "comunas":[
         "Alto del Carmen",
         "Caldera",
         "Chañaral",
@@ -53,9 +53,9 @@
       ]
     },
     {
-      "region": "Coquimbo",
-      "numero": "IV",
-      "comunas": [
+      "region":"Coquimbo",
+      "numero":"IV",
+      "comunas":[
         "Andacollo",
         "Canela",
         "Combarbalá",
@@ -74,9 +74,9 @@
       ]
     },
     {
-      "region": "Valparaíso",
-      "numero": "V",
-      "comunas": [
+      "region":"Valparaíso",
+      "numero":"V",
+      "comunas":[
         "Algarrobo",
         "Cabildo",
         "Calera",
@@ -118,9 +118,9 @@
       ]
     },
     {
-      "region": "Metropolitana de Santiago",
-      "numero": "MET",
-      "comunas": [
+      "region":"Metropolitana de Santiago",
+      "numero":"MET",
+      "comunas":[
         "Alhué",
         "Buin",
         "Calera de Tango",
@@ -176,9 +176,9 @@
       ]
     },
     {
-      "region": "Libertador Gral. Bernardo O’Higgins",
-      "numero": "VI",
-      "comunas": [
+      "region":"Libertador Gral. Bernardo O’Higgins",
+      "numero":"VI",
+      "comunas":[
         "Chimbarongo",
         "Chépica",
         "Codegua",
@@ -215,9 +215,9 @@
       ]
     },
     {
-      "region": "Maule",
-      "numero": "VII",
-      "comunas": [
+      "region":"Maule",
+      "numero":"VII",
+      "comunas":[
         "Cauquenes",
         "Chanco",
         "Colbún",
@@ -251,9 +251,9 @@
       ]
     },
     {
-      "region": "Ñuble",
-      "numero": "XVI",
-      "comunas": [
+      "region":"Ñuble",
+      "numero":"XVI",
+      "comunas":[
         "Bulnes",
         "Chillán Viejo",
         "Chillán",
@@ -278,9 +278,9 @@
       ]
     },
     {
-      "region": "Biobío",
-      "numero": "VIII",
-      "comunas": [
+      "region":"Biobío",
+      "numero":"VIII",
+      "comunas":[
         "Alto Biobío",
         "Antuco",
         "Arauco",
@@ -317,9 +317,9 @@
       ]
     },
     {
-      "region": "Araucanía",
-      "numero": "IX",
-      "comunas": [
+      "region":"Araucanía",
+      "numero":"IX",
+      "comunas":[
         "Angol",
         "Carahue",
         "Cholchol",
@@ -355,9 +355,9 @@
       ]
     },
     {
-      "region": "Los Ríos",
-      "numero": "XIV",
-      "comunas": [
+      "region":"Los Ríos",
+      "numero":"XIV",
+      "comunas":[
         "Corral",
         "Futrono",
         "La Unión",
@@ -373,9 +373,9 @@
       ]
     },
     {
-      "region": "Los Lagos",
-      "numero": "X",
-      "comunas": [
+      "region":"Los Lagos",
+      "numero":"X",
+      "comunas":[
         "Ancud",
         "Calbuco",
         "Castro",
@@ -409,9 +409,9 @@
       ]
     },
     {
-      "region": "Aisén del Gral. Carlos Ibáñez del Campo",
-      "numero": "XI",
-      "comunas": [
+      "region":"Aisén del Gral. Carlos Ibáñez del Campo",
+      "numero":"XI",
+      "comunas":[
         "Aisén",
         "Chile Chico",
         "Cisnes",
@@ -425,9 +425,9 @@
       ]
     },
     {
-      "region": "Magallanes y de la Antártica Chilena",
-      "numero": "XII",
-      "comunas": [
+      "region":"Magallanes y de la Antártica Chilena",
+      "numero":"XII",
+      "comunas":[
         "Antártica",
         "Cabo de Hornos (Ex Navarino)",
         "Laguna Blanca",
